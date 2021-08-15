@@ -1,0 +1,1024 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"param2"
+			],
+			[
+				"pa",
+				"param1"
+			],
+			[
+				"gt",
+				"getRef"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getByVlue"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"da",
+				"datalocalStorage"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"use",
+				"useState"
+			],
+			[
+				"sti",
+				"stringify"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"fot",
+				"footer\tTag"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"Co",
+				"Component"
+			],
+			[
+				"Con",
+				"Component"
+			],
+			[
+				"I",
+				"ItemTask"
+			],
+			[
+				"i",
+				"ItemTask"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"dropdown",
+				"dropdownMenu1"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"bs3",
+				"bs3-tabs\tbs3-tabs"
+			],
+			[
+				"S",
+				"Sort"
+			],
+			[
+				"B",
+				"ButtonJob"
+			],
+			[
+				"op",
+				"optgroup"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"in",
+				"input-group"
+			],
+			[
+				"bs",
+				"bs3-col\tbs3-col"
+			],
+			[
+				"fa",
+				"fa-plus"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bs3-button",
+				"bs3-button:danger\tbs3-button-danger"
+			],
+			[
+				"bs3-b",
+				"bs3-button:primary\tbs3-button-primary"
+			],
+			[
+				"bs3-in",
+				"bs3-input:text:h\tbs3-input-text-h"
+			],
+			[
+				"bs3-f",
+				"bs3-form:label\tbs3-form-label"
+			],
+			[
+				"bs3-pe",
+				"bs3-panel:warning\tbs3-panel-warning"
+			],
+			[
+				"bs3-p",
+				"bs3-panel:primary\tbs3-panel-primary"
+			],
+			[
+				"bs3-pane",
+				"bs3-panel:warning\tbs3-panel-warning"
+			],
+			[
+				"bs3-but",
+				"bs3-sm-button:primary\tbs3-sm-button-primary"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:warning\tbs3-button-warning"
+			],
+			[
+				"bs3-c",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"border-d",
+				"border-radius\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar:inverse\tbs3-navbar-inverse"
+			],
+			[
+				"M",
+				"setMenu_Select"
+			],
+			[
+				"set",
+				"Menu_Select"
+			],
+			[
+				"txt",
+				"txtSelect"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"tex",
+				"txtSelect"
+			],
+			[
+				"tx",
+				"txtSelect"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"setP",
+				"setPass"
+			],
+			[
+				"us",
+				"useState"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"U",
+				"UserName"
+			],
+			[
+				"u",
+				"Username"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Us",
+				"Username"
+			],
+			[
+				"Sa",
+				"Save_Value"
+			],
+			[
+				"re",
+				"react"
+			],
+			[
+				"F",
+				"fontSize"
+			],
+			[
+				"po",
+				"props"
+			],
+			[
+				"f",
+				"fontsize"
+			],
+			[
+				"see",
+				"setDieuKien"
+			],
+			[
+				"D",
+				"DieuKien_BanDau"
+			],
+			[
+				"C",
+				"Color"
+			],
+			[
+				"r",
+				"react"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"P",
+				"Products"
+			],
+			[
+				"im",
+				"item"
+			],
+			[
+				"styl",
+				"style1"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"e",
+				"elementColor"
+			],
+			[
+				"Ma",
+				"Mau"
+			],
+			[
+				"MA",
+				"Mau_Vang"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"myRef"
+			],
+			[
+				"cr",
+				"createRef"
+			],
+			[
+				"bs3-",
+				"bs3-col\tbs3-col"
+			],
+			[
+				"bs3co",
+				"bs3-container\tbs3-container"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:inverse\tbs3-navbar-inverse"
+			],
+			[
+				"bs3-th",
+				"bs3-thumbnail:content\tbs3-thumbnail-content"
+			],
+			[
+				"bs3-ta",
+				"bs3-table:bordered\tbs3-table-bordered"
+			],
+			[
+				"bs3-tab",
+				"bs3-table:responsive\tbs3-table-responsive"
+			],
+			[
+				"bs3-t",
+				"bs3-table:hover\tbs3-table-hover"
+			],
+			[
+				"bs3-thum",
+				"bs3-thumbnail:content\tbs3-thumbnail-content"
+			],
+			[
+				"bs3row",
+				"bs3-row-col\tbs3-row-col"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"bs3-thu",
+				"bs3-thumbnail:content\tbs3-thumbnail-content"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"na",
+				"navbar-brand"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"cha",
+				"change"
+			],
+			[
+				"o",
+				"onChange"
+			],
+			[
+				"setT",
+				"setTime"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "b34A.js",
+			"settings":
+			{
+				"buffer_size": 998,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.sublime-project",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> C:\\MAMP\\bin\\ruby\\bin\\erb.cmd\n\t|+| 19\n=> C:\\MAMP\\en\\MAMP Help\\index.html\n\t|+| 1\n=> C:\\MAMP\\htdocs\\index.php\n\t|+| 1\n\t|+| 23\n\t|+| 28\n\t|+| 108\n=> D:\\nodejs\\b34A.js\n\t|+| 5\n\t|+| 12\n\t|+| 19\n",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Windows",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"emme",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Oackage Control in",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 66.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package';",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/nodejs/nodejs/b34A.js"
+	],
+	"file_history":
+	[
+		"/C/MAMP/htdocs/index.php",
+		"/D/nodejs/text.js",
+		"/D/nodejs/sas.js",
+		"/D/nodejs/b15kethua.js",
+		"/D/nodejs/b31.js",
+		"/D/nodejs/b28B.js",
+		"/D/nodejs/b28.js",
+		"/D/nodejs/b17scope.js",
+		"/D/nodejs/b16truyenthamso.js",
+		"/D/nodejs/b33.js",
+		"/D/nodejs/app.sublime-project",
+		"/D/nodejs/app1.sublime-project",
+		"/D/hello/hello/src/app3.sublime-project",
+		"/D/hello/hello/src/Component/app3.sublime-project",
+		"/D/hello/hello/src/Component/app.js",
+		"/C/MAMP/bin/php/php7.4.1/php.ini-production",
+		"/C/MAMP/bin/php/php7.4.1/php.ini-development",
+		"/D/nodejs/b23.js",
+		"/D/nodejs/php.ini"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "b34A.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"33":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"48":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

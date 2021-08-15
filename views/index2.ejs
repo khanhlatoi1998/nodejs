@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title> CSS Bài 8 </title>
+   <link rel="stylesheet" type="text/css" href="/assets/css.css" />
+   <!-- load CDN -->
+   <script  src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+</head>
+<body>
+  <p>  ID : <%= ID %> </p>
+  <h1> queryString : <%= queryString %> </h1>
+  <form method="POST" action="/loginjson">
+    Username : <input id="name" type="text" name="username"  />
+    <br />
+    Userpassword : <input type="text" name="userpassword" />
+    <br />
+    <input type="submit" value="Submit" />
+  </form>
+
+  <script>
+    var name1 = document.getElementById('name') ; 
+    console.log(name1.value) ;
+    $.ajax({
+      type : "POST", 
+      url : "/loginjson", 
+      data : JSON.stringify({firstname : "cc" , lastname: "KHanh" }),
+      dataType : "json", 
+      contentType : "application/json"
+      }) ; 
+  </script>
+
+</body>
+
+</html>
+
+
